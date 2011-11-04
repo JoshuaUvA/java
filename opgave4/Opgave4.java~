@@ -1,0 +1,18 @@
+/* Naam		Joshua Appelman
+ * Snr		6329276
+ * Opl		Informatica
+ *
+ * Summary:
+ *		Asks user input for an integer n
+ *		Prints the first n Lucas numbers
+ *		
+ *		Asks the user input for integers a and n
+ *		Prints a^m
+ */
+
+import java.util.Scanner;
+ 
+public class Opgave4
+{
+	public static void main(String[] args)
+	{
